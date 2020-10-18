@@ -2,10 +2,10 @@
   {
     "id": 1,
     "name": "إختبار 1",
-    "description": "تاريخ التحديث : 18/10/2020\nالحالة : مستقر\nسرفر خاص بنا يحتوي على مجموعة محدودة  من المسلسلات و الأنمي  نقوم بتجميعها يدويا، بالإضافة إلى طلباتكم  الشخصية تضاف أسبوعيا",
+    "description": "الحالة : مستقر\nسرفر خاص بنا يحتوي على مجموعة محدودة  من المسلسلات و الأنمي  نقوم بتجميعها يدويا، بالإضافة إلى طلباتكم  الشخصية تضاف أسبوعيا",
     "language_code": "عربي",
-    "download_url": "https://raw.githubusercontent.com/3nakib/repo.3nakib/master/media/addons/icons/0.png?token=APO4ZI34LX6SH34YTZUED727RTIBW",
-    "icon": "https://raw.githubusercontent.com/3nakib/repo.3nakib/master/media/addons/icons/0.png?token=APO4ZI34LX6SH34YTZUED727RTIBW",
+    "download_url": "https://raw.githubusercontent.com/3nakib/repo.3nakib/master/media/addons/icons/3nakib.png",
+    "icon": "https://raw.githubusercontent.com/3nakib/repo.3nakib/master/media/addons/icons/3nakib.png",
     "addon_type_id": 0,
     "addon_type": "Series",
     "build": 20201018,
